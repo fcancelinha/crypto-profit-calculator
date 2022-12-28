@@ -1,0 +1,48 @@
+{
+  "name": "crypto-profit",
+  "version": "0.1.0",
+  "description": "A simple crypto profit calculator that helps your calculate how much profit/loss you incurred, convert it to 4 different currencies and get current market prices",
+  "homepage": "https://fcancelinha.github.io/crypto-profit",
+  "author": "Filipe Cancelinha",
+  "license": "MIT",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+    "@emotion/react": "^11.5.0",
+    "@emotion/styled": "^11.3.0",
+    "@fontsource/roboto": "^4.5.1",
+    "@mui/icons-material": "^5.1.0",
+    "@mui/material": "^5.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-fast-marquee": "^1.2.1",
+    "react-scripts": "^4.0.3"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.15.0",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "dotenv": "^10.0.0",
+    "gh-pages": "^3.2.3"
+  }
+}
