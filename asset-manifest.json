@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/crypto-profit/static/js/main.3815f5f1.chunk.js",
-    "main.js.map": "/crypto-profit/static/js/main.3815f5f1.chunk.js.map",
+    "main.js": "/crypto-profit/static/js/main.881abb42.chunk.js",
+    "main.js.map": "/crypto-profit/static/js/main.881abb42.chunk.js.map",
     "runtime-main.js": "/crypto-profit/static/js/runtime-main.1428a5c6.js",
     "runtime-main.js.map": "/crypto-profit/static/js/runtime-main.1428a5c6.js.map",
     "static/js/2.d3898b24.chunk.js": "/crypto-profit/static/js/2.d3898b24.chunk.js",
@@ -13,6 +13,6 @@
   "entrypoints": [
     "static/js/runtime-main.1428a5c6.js",
     "static/js/2.d3898b24.chunk.js",
-    "static/js/main.3815f5f1.chunk.js"
+    "static/js/main.881abb42.chunk.js"
   ]
 }
