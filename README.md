@@ -7,7 +7,7 @@
 > Whenever I was searching on the internet for a simple calculator to do some quick math I could never find one. There were mining calculators for sure but not really what I was looking for... So ! I decided to make my own and share with anyone facing the same troubles as I once did. This is my first attempt at creating an app using react and I feel like I still have so much to learn. I regret not using Redux and Typescript as the scope of the project quickly grew beyond my initial expectations as I was adding more and more features.
 
 <div align="center">
-<img alt="Deploy" src="https://github.com/fcancelinha/crypto-profit/actions/workflows/gh-deploy.yml/badge.svg">
+<img alt="Deploy" src="https://github.com/fcancelinha/crypto-profit-calculator/actions/workflows/gh-deploy.yml/badge.svg">
 <img alt="License" src="https://img.shields.io/badge/License-MIT-brightgreen.svg">
 </div>
 
@@ -20,7 +20,7 @@
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install crypto-profit-app.
+Use the package manager [npm](https://www.npmjs.com/) to install crypto-profit-calculator.
 
 ```bash
 npm install

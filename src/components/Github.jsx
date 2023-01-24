@@ -9,7 +9,7 @@ const style = {
 const Github = () => {
 	return (
 		<a
-			href='https://www.github.com/fcancelinha/crypto-profit'
+			href='https://www.github.com/fcancelinha/crypto-profit-calculator'
 			target='_blank'
 			rel='noreferrer'>
 			<img

@@ -1,8 +1,8 @@
 {
-  "name": "crypto-profit",
+  "name": "crypto-profit-calculator",
   "version": "0.1.0",
   "description": "A simple crypto profit calculator that helps your calculate how much profit/loss you incurred, convert it to 4 different currencies and get current market prices",
-  "homepage": "https://fcancelinha.github.io/crypto-profit",
+  "homepage": "https://fcancelinha.github.io/crypto-profit-calculator",
   "author": "Filipe Cancelinha",
   "license": "MIT",
   "main": "index.js",
